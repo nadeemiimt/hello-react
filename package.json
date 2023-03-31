@@ -1,0 +1,23 @@
+{
+  "name": "helloreact",
+  "version": "1.0.0",
+  "description": "This is hello react by Nadeem",
+  "main": "App.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/nadeemiimt/hello-react.git"
+  },
+  "keywords": [
+    "learn",
+    "react"
+  ],
+  "author": "Nadeem",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/nadeemiimt/hello-react/issues"
+  },
+  "homepage": "https://github.com/nadeemiimt/hello-react#readme"
+}
